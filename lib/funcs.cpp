@@ -1,7 +1,7 @@
 
-int mult(int c, int d)
+int mult(int a, int b)
 {
-	return c * d;
+	return a * b;
 }
 
 double div(int a, int b)
