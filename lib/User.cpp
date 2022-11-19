@@ -1,6 +1,6 @@
 struct User
 {
 	int id;
-	std::string master_name;
+	std::string full_name;
 	int age;
 }
